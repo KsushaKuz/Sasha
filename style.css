@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    margin-left: 270px;
+    margin-top: 35px;
+}
+h2 {
+    margin-left: 200px;
+}
+header {
+    width: 800px;
+    height: 175px;
+    background-image: linear-gradient(to right ,#1D2D6F,#20729E,#7BB3BD);
+}
+img{
+    margin-left: 52px;
+    
+    position: absolute;
+    top: 70px;
+}
+.nav1 {
+    position: absolute;
+    top: 130px;
+    margin-left: 125px;
+}
+.nav2 {
+    position: absolute;
+    top: 130px;
+    margin-left: 325px;
+}
+.nav3 {
+    position: absolute;
+    top: 130px;
+    margin-left: 525px;
+}
