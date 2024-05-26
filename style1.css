@@ -18,3 +18,27 @@ img{
     position: absolute;
     top: 45px;
 }
+.h{
+    margin-top: 70px;
+    margin-left: 1px;
+}
+.f{
+    margin-top: 85px;
+    margin-left: 320px;
+}
+p{
+    position: absolute;
+    top: 320px;
+}
+.nav1 {
+    position: absolute;
+    top: 500px;
+    margin-left: 330px;
+    font-size: 180%;
+}
+.nav2 {
+    position: absolute;
+    top: 555px;
+    margin-left: 330px;
+    font-size: 180%;
+}
