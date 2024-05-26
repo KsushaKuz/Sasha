@@ -23,6 +23,7 @@ img{
     position: absolute;
     top: 130px;
     margin-left: 125px;
+    
 }
 .nav2 {
     position: absolute;
@@ -78,4 +79,10 @@ section img{
 .t{
     left: -75px;
     top: 196px;
+}
+.o{
+    margin-left: 100px;
+}
+.m{
+    left: 20px;
 }
