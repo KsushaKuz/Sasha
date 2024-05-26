@@ -24,21 +24,21 @@ img{
 }
 .f{
     margin-top: 85px;
-    margin-left: 320px;
+    margin-left: 490px;
 }
 p{
     position: absolute;
-    top: 320px;
+    top: 440px;
 }
 .nav1 {
     position: absolute;
-    top: 500px;
-    margin-left: 330px;
+    top: 565px;
+    margin-left: 450px;
     font-size: 180%;
 }
 .nav2 {
     position: absolute;
-    top: 555px;
-    margin-left: 330px;
+    top: 565px;
+    margin-left: 200px;
     font-size: 180%;
 }
